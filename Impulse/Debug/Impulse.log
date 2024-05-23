@@ -1,0 +1,2 @@
+﻿  Sample.cpp
+E:\Impulse_2.0\Impulse\Sample.cpp(1,10): fatal error C1083: include ファイルを開けません。'Impulse.h':No such file or directory
